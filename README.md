@@ -1,5 +1,5 @@
 # CloudSQL Module
-![Maintained by Hassan-DevOps](https://img.shields.io/badge/maintained%20by-priceline.com-blue)
+![Maintained by Hassan.com](https://img.shields.io/badge/maintained%20by-Hassan-blue)
 ![Terraform Version](https://img.shields.io/badge/tf-%3E%3D0.13-blue.svg)
 
 ## Usage
@@ -26,16 +26,3 @@ This module supports following types of mysql database.
 - Postgres supports only shared-core machine types such as db-f1-micro, and custom machine types such as db-custom-2-13312
 - To build custome machines see https://cloud.google.com/compute/docs/instances/creating-instance-with-custom-machine-type#create
 
-## Found bug
-If you found the bug contribute or reach out to the authors.
-
-### Authors
-- [Yevgeny Finkelshteyn][yf]
-- [Gopinath Prabhu][gp]
-- [John Brilla][jb]
-- [Andrey Larin][al]
-
-[yf]: mailto:yevgeny.finkelshteyn@priceline.com
-[al]: mailto:andrey.larin@priceline.com
-[gp]: mailto:gopinath.prabhu@priceline.com
-[jb]: mailto:john.brilla@priceline.com
